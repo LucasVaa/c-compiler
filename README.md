@@ -6,3 +6,11 @@
 2. flex flex.l #生成 lex.yy.c
 3. cc lex.yy.c y.tab.c -o a.exe # 编译/链接
 
+```cmd
+#windows下
+
+flex flex.l
+gcc lex.yy.c
+cat .\1.c | .\a.exe
+```
+

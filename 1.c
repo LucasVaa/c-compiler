@@ -1,10 +1,6 @@
-void main() {
-    // start
-    int a = 0;
-    int i1;
-    i1 = a + 2;
-    if (i1 != a) {
-        i1 = i1 % 4;
-    }
-    // end
-}
+INT         12          12        
+INT         int       
+ID          a         200152
+DOT         .         
+INT         int       
+ID          a         12848600
